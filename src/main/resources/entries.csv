@@ -1,0 +1,6 @@
+dateTime,bearing,station,temperature,weather,id,windforce
+2023-03-29T11:43,N,Pinkafeld,,SUNNY,1,1.8
+2023-02-28T11:43,N,Graz,10,OVERCAST,2,120.0
+2023-03-15T17:58:17.088025200,NE,St. Georgen,,SUNNY,3,12.0
+2023-03-15T18:06:57.273762,N,St. Georgen,,SUNNY,4,12.0
+2023-03-15T18:13:52.329168100,W,Innsbruck,,SUNNY,5,30.0
